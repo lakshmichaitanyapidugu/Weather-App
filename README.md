@@ -6,4 +6,4 @@ It fetches current weather data from the OpenWeatherMap API.
 ## Features
 - Search weather by city
 - Displays temperature, conditions, and icon
-- Simple, responsive UI
+- Simple, responsive UI.
